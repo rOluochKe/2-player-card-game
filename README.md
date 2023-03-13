@@ -15,13 +15,13 @@
 > Clone the project from github:
 
 ```
-git clone git@github.com:rOluochKe/randomuserapi.git
+git clone git@github.com:rOluochKe/2-player-card-game.git
 ```
 
 > Cd into the project directory:
 
 ```
-cd randomuserapi
+cd 2-player-card-game
 ```
 
 > Install required packages, run
